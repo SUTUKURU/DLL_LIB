@@ -1,3 +1,3 @@
-/* File - dll_lib.h
+/* File - dll_utils.h
    Author - Subramanyam Utukuru
  */
